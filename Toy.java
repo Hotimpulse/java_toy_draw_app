@@ -1,5 +1,3 @@
-package java_toy_draw_app;
-
 public class Toy {
 
     private int id;
